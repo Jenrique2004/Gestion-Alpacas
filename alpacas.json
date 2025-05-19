@@ -1,0 +1,62 @@
+[
+  {
+    "arete": "A001",
+    "edad": "DL",
+    "sexo": "Hembra",
+    "peso": 100.0
+  },
+  {
+    "arete": "A002",
+    "edad": "2D",
+    "sexo": "Macho",
+    "peso": 60.5
+  },
+  {
+    "arete": "A003",
+    "edad": "4D",
+    "sexo": "Hembra",
+    "peso": 63.8
+  },
+  {
+    "arete": "A004",
+    "edad": "BLL",
+    "sexo": "Macho",
+    "peso": 72.0
+  },
+  {
+    "arete": "A005",
+    "edad": "DL",
+    "sexo": "Hembra",
+    "peso": 58.6
+  },
+  {
+    "arete": "A006",
+    "edad": "2D",
+    "sexo": "Macho",
+    "peso": 64.1
+  },
+  {
+    "arete": "A007",
+    "edad": "4D",
+    "sexo": "Hembra",
+    "peso": 66.4
+  },
+  {
+    "arete": "A008",
+    "edad": "BLL",
+    "sexo": "Macho",
+    "peso": 75.3
+  },
+  {
+    "arete": "A009",
+    "edad": "DL",
+    "sexo": "Hembra",
+    "peso": 57.9
+  },
+  {
+    "arete": "A010",
+    "edad": "4D",
+    "sexo": "Macho",
+    "peso": 68.7
+  }
+]
